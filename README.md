@@ -27,4 +27,4 @@ to avoid taking forever\
  \
 but for larger images\
 lower the number of iterations\
-in the 'newtons' function\
+in the 'newtons' function
